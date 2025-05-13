@@ -103,21 +103,3 @@ $ ./delete_dnodeint
 ```
 
 ---
-
-## 🏆 How to Contribute
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/holbertonschool-Fix_My_Code_Challenge.git
-   ```
-2. Navigate to the challenge directory and fix the code!  
-3. Test your solution thoroughly.  
-4. Submit a pull request with your fixes.  
-
----
-
-## 📜 License
-This project is licensed under the Holberton School guidelines.  
-
----
-
-Happy debugging! 🐞✨
